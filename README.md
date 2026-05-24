@@ -1,18 +1,92 @@
-# 💫 About Me:
-🌱 I’m currently learning Full Stack Development<br>⚡ Fun fact: I am a Problem Solver
+<h1 align="center">Hi 👋, I'm Md Galib</h1>
+<h3 align="center">Full Stack Developer | React • Next.js • Node.js • MongoDB</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-galib5/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Md-Galib5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Md-Galib5&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Galib5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+🚀 Passionate Full Stack Developer building modern, scalable web applications
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Md-Galib5&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect with Me
+
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 🌍 Portfolio: https://your-portfolio-link.com  
+
+---
+
+## 💫 About Me
+
+- 🛠 I’m currently working with **React, Next.js, Node.js**
+- 🚀 I’m currently learning **Advanced Backend Development & System Design**
+- 💡 I love building clean UI and powerful backend systems
+- 🎯 Goal: Become a **Professional Full Stack Developer**
+- ⚡ I enjoy solving real-world problems through code
+
+---
+
+## ⚡ Tech Stack
+
+**Frontend:**
+- HTML, CSS, JavaScript
+- React.js, Next.js
+- Tailwind CSS
+
+**Backend:**
+- Node.js
+- Express.js
+
+**Database:**
+- MongoDB
+
+**Tools:**
+- Git, GitHub, VS Code, Vercel, Netlify
+
+---
+
+## 👨‍💻 Coding Profile
+
+```js
+const mdGalib = {
+  name: "Md Galib",
+  role: "Full Stack Developer",
+  code: ["HTML", "CSS", "JavaScript"],
+  frontend: ["React", "Next.js", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js"],
+  database: ["MongoDB"],
+  currentFocus: [
+    "Building full-stack web applications",
+    "Improving problem-solving skills",
+    "Learning system design"
+  ],
+  goal: "Become a professional full stack developer"
+};
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Top Projects
+
+- Project 1 — Full Stack App (React + Node)
+- Project 2 — Portfolio Website
+- Project 3 — E-commerce App
+- Project 4 — Blog Platform
+
+---
+
+## ✨ Fun Fact
+
+> “I enjoy turning ideas into real-world applications using code.”
+
+---
+
+<h3 align="center">Thanks for visiting my profile ❤️</h3>
