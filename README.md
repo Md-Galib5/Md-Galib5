@@ -42,14 +42,12 @@ Full Stack Developer | React ⚛️ • Next.js ▲ • Node.js • MongoDB 🍃
 - React.js
 - Next.js
 - Tailwind CSS
-- Redux Toolkit (state management)
 
 ### ⚙️ Backend
 - Node.js
 - Express.js
 - REST API
 - JWT Authentication
-- Prisma ORM
 
 ### 🗄️ Database
 - MongoDB
@@ -57,11 +55,8 @@ Full Stack Developer | React ⚛️ • Next.js ▲ • Node.js • MongoDB 🍃
 
 ### 🧰 Tools & DevOps
 - Git & GitHub
-- Postman
 - Vercel
 - Netlify
-- Firebase
-- Docker
 
 ---
 
@@ -74,7 +69,7 @@ const mdGalib = {
   frontend: ["React", "Next.js", "Tailwind CSS"],
   backend: ["Node.js", "Express.js", "JWT"],
   database: ["MongoDB", "MySQL"],
-  tools: ["Git", "GitHub", "Docker", "Vercel"],
+  tools: ["Git", "GitHub","Vercel"],
   currentFocus: [
     "Building scalable full-stack apps",
     "Improving system design skills",
