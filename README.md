@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Md Galib</h1>
-<h3 align="center">Full Stack Developer | React • Next.js • Node.js • MongoDB</h3>
+
+<h3 align="center">
+Full Stack Developer | React ⚛️ • Next.js ▲ • Node.js • MongoDB 🍃
+</h3>
 
 <p align="center">
 🚀 Passionate Full Stack Developer building modern, scalable web applications
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 ---
@@ -12,81 +19,66 @@
 - 📧 Email: your-email@example.com  
 - 💼 LinkedIn: https://linkedin.com/in/your-profile  
 - 🌍 Portfolio: https://your-portfolio-link.com  
+- 🧑‍💻 GitHub: https://github.com/YOUR_USERNAME  
 
 ---
 
 ## 💫 About Me
 
-- 🛠 I’m currently working with **React, Next.js, Node.js**
-- 🚀 I’m currently learning **Advanced Backend Development & System Design**
-- 💡 I love building clean UI and powerful backend systems
+- 🛠 I build **Full Stack Web Applications**
+- 🚀 Currently learning **System Design & Advanced Backend**
+- 💡 I love creating **clean UI + scalable backend systems**
 - 🎯 Goal: Become a **Professional Full Stack Developer**
-- ⚡ I enjoy solving real-world problems through code
+- ⚡ I enjoy solving real-world problems using code
 
 ---
 
 ## ⚡ Tech Stack
 
-**Frontend:**
-- HTML, CSS, JavaScript
-- React.js, Next.js
+### 🚀 Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Next.js
 - Tailwind CSS
+- Redux Toolkit (state management)
 
-**Backend:**
+### ⚙️ Backend
 - Node.js
 - Express.js
+- REST API
+- JWT Authentication
+- Prisma ORM
 
-**Database:**
+### 🗄️ Database
 - MongoDB
+- MySQL
 
-**Tools:**
-- Git, GitHub, VS Code, Vercel, Netlify
+### 🧰 Tools & DevOps
+- Git & GitHub
+- Postman
+- Vercel
+- Netlify
+- Firebase
+- Docker
 
 ---
 
-## 👨‍💻 Coding Profile
+## 🎯 Coding Profile
 
 ```js
 const mdGalib = {
   name: "Md Galib",
   role: "Full Stack Developer",
-  code: ["HTML", "CSS", "JavaScript"],
   frontend: ["React", "Next.js", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js"],
-  database: ["MongoDB"],
+  backend: ["Node.js", "Express.js", "JWT"],
+  database: ["MongoDB", "MySQL"],
+  tools: ["Git", "GitHub", "Docker", "Vercel"],
   currentFocus: [
-    "Building full-stack web applications",
-    "Improving problem-solving skills",
-    "Learning system design"
+    "Building scalable full-stack apps",
+    "Improving system design skills",
+    "Mastering backend architecture"
   ],
-  goal: "Become a professional full stack developer"
+  goal: "Become a professional full stack developer 🚀"
 };
-```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Top Projects
-
-- Project 1 — Full Stack App (React + Node)
-- Project 2 — Portfolio Website
-- Project 3 — E-commerce App
-- Project 4 — Blog Platform
-
----
-
-## ✨ Fun Fact
-
-> “I enjoy turning ideas into real-world applications using code.”
-
----
-
-<h3 align="center">Thanks for visiting my profile ❤️</h3>
