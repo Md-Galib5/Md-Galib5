@@ -16,10 +16,9 @@ Full Stack Developer | React ⚛️ • Next.js ▲ • Node.js • MongoDB 🍃
 
 ## 🌐 Connect with Me
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 🌍 Portfolio: https://your-portfolio-link.com  
-- 🧑‍💻 GitHub: https://github.com/YOUR_USERNAME  
+- 📧 Email: mdgalibcp05@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/md-galib5/ 
+- 🌍 Portfolio: https://md-galib.vercel.app/
 
 ---
 
