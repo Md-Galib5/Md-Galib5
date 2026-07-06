@@ -2,44 +2,35 @@
 
 # Hi 👋, I'm Md. Galib
 
-### Full Stack Developer | CSE Student | MERN & AI Enthusiast
+### Full Stack Developer • React ⚛️ • Next.js ▲ • Node.js • MongoDB 🍃
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Next.js+%26+React+Developer;AI+Integration+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
+<p>
+Building modern web applications with scalable architectures and exceptional user experiences.
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Learning+System+Design+%26+AI+Engineering;Open+to+Internships+and+Opportunities" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I am a Computer Science and Engineering student passionate about building modern, scalable, and user-friendly web applications.
-
-* 🔭 Currently working on **Next.js, MERN stack, and AI-integrated projects**
-* 🌱 Learning **TypeScript, System Design, LLMs, RAG, and AI Agents**
-* 💻 Experienced with **React, Next.js, Node.js, Express, MongoDB, FastAPI**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🎯 Goal: Become a strong **Full Stack Developer in Europe**
-* 📫 Email: **[your-email@example.com](mailto:your-email@example.com)**
+* 💻 Full Stack Developer passionate about building production-ready applications
+* 🌱 Currently learning **System Design, Advanced Backend Engineering, and AI Applications**
+* ⚡ Experienced with **React, Next.js, Node.js, Express.js, MongoDB**
+* 🎯 Goal: Become a high-impact Full Stack Engineer
+* 🔍 Interested in Web Development, Cloud, and AI-powered products
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 Connect With Me
 
-### 🛒 NextOwner — Second-Hand Marketplace
-
-A modern buy-and-sell marketplace platform with seller dashboard, product management, authentication, and MongoDB backend.
-
-**Tech Stack:**
-`Next.js` `React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Framer Motion`
-
----
-
-### ✅ Task Management App
-
-A full-stack task management dashboard with authentication, task status, priority, pagination, and clean UI.
-
-**Tech Stack:**
-`Next.js` `FastAPI` `PostgreSQL` `Tailwind CSS` `JWT`
+<p align="left">
+<a href="mailto:mdgalibcp05@gmail.com">📧 Email</a> •
+<a href="https://www.linkedin.com/in/md-galib5/">💼 LinkedIn</a> •
+<a href="https://md-galib.vercel.app/">🌍 Portfolio</a>
+</p>
 
 ---
 
@@ -47,78 +38,79 @@ A full-stack task management dashboard with authentication, task status, priorit
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square\&logo=react\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square\&logo=nextdotjs\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square\&logo=tailwindcss\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FACC15?style=flat-square\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-16A34A?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-111827?style=flat-square\&logo=express\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-059669?style=flat-square\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge)
 
-### Database & Tools
+### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-22C55E?style=flat-square\&logo=mongodb\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square\&logo=postgresql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F97316?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square\&logo=github\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### AI & Learning
+### Tools
 
-![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square\&logo=python\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-10B981?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI_Agents-EC4899?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 NextOwner
+
+A modern marketplace platform for buying and selling products with authentication, seller dashboard, product management, and responsive UI.
+
+**Tech:** Next.js • MongoDB • Express.js • Tailwind CSS
+
+### ✅ Task Management System
+
+Full-stack task management application with authentication, task tracking, and dashboard analytics.
+
+**Tech:** Next.js • FastAPI • PostgreSQL
+
+### 🤖 AI Learning Projects
+
+Experimenting with AI integrations, LLMs, RAG pipelines, and agent-based workflows.
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🎯 Current Focus
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge\&logo=vercel\&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-EF4444?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your-email@example.com)
-
-</div>
-
----
-
-## 💡 Current Focus
-
-```js
-const galib = {
+```javascript
+const mdGalib = {
   role: "Full Stack Developer",
-  learning: ["TypeScript", "System Design", "LLMs", "AI Agents"],
-  stack: ["React", "Next.js", "Node.js", "Express", "MongoDB", "FastAPI"],
-  goal: "Build impactful software and grow as a developer in Europe",
+  learning: [
+    "System Design",
+    "Backend Architecture",
+    "Cloud Fundamentals",
+    "AI Engineering"
+  ],
+  building: [
+    "Scalable Web Applications",
+    "Modern React Ecosystems",
+    "Portfolio Projects"
+  ],
+  goal: "Become a Professional Full Stack Engineer 🚀"
 };
 ```
 
@@ -128,6 +120,6 @@ const galib = {
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=3B82F6" alt="Profile views" />
+Building • Learning • Growing 🚀
 
 </div>
